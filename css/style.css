@@ -72,17 +72,37 @@ img {
   color: black; }
   .header {
     height: 100vh;
-    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(https://images.unsplash.com/photo-1542611100-266ffbc7d4b5?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE4fHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60);
+    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
     
   
-    https://images.unsplash.com/photo-1558456381-61480e649f53?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTB8MTA1NTE4NjV8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60
+    
   }
   .hands {
     height: 40vh;
-    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(https://images.unsplash.com/photo-1558456381-61480e649f53?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8NTB8MTA1NTE4NjV8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=700&q=60);
+    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    
+  
+    
+  }
+  .hands2 {
+    height: 40vh;
+    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    
+  
+    
+  }
+  .hands3 {
+    height: 40vh;
+    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -199,7 +219,44 @@ h3 {
           background-repeat: no-repeat;
         }
         
+        .hands {
+          height: 60vh;
+          background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+          background-size: cover;
+          background-position: top;
+          position: relative;
+          
         
+          
+        }
+        .hands2 {
+          height: 60vh;
+          width: 75vw;
+          background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+          background-size: cover;
+          background-position: top;
+          position: relative;
+          
+
+          
+        }
+        .hands3 {
+          height: 30vh;
+          width: 50vw;
+          background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.137), rgba(29, 26, 29, 0)), url(https://images.unsplash.com/photo-1552693673-1bf958298935?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8&auto=format&fit=crop&w=800&q=60);
+          background-size: cover;
+          background-position: top;
+          margin-top: -40%;
+          margin-left: 40%;
+          
+          
+        
+          
+        }
+        .overlap-text {
+          z-index: 200;
+          position: relative;
+        }
        
       }
 
