@@ -72,7 +72,7 @@ img {
   color: black; }
   .header {
     height: 100vh;
-    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(https://images.unsplash.com/photo-1544717304-a2db4a7b16ee?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDE3fHx8ZW58MHx8fA%3D%3D&auto=format&fit=crop&w=800&q=60);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -82,7 +82,7 @@ img {
   }
   .hands {
     height: 40vh;
-    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.164), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -92,7 +92,7 @@ img {
   }
   .hands2 {
     height: 40vh;
-    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+    background-image:url(../img/fibo.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -201,7 +201,7 @@ h3 {
           background-repeat: no-repeat;
         }
         #trys {
-          background-image: url('../img/langai.jpg');
+          background-image: url('../img/shadowhand.jpg');
         
           background-position: center center;
           background-size: cover;
@@ -221,18 +221,16 @@ h3 {
         
         .hands {
           height: 60vh;
-          background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+          background-image: url(https://images.unsplash.com/photo-1581182815808-b6eb627a8798?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw0NjE2NDY0fHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
           background-size: cover;
           background-position: top;
           position: relative;
           
-        
-          
         }
         .hands2 {
           height: 60vh;
-          width: 75vw;
-          background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.397), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+          width: 80vw;
+          background-image: url(../img/fibo.jpg);
           background-size: cover;
           background-position: top;
           position: relative;
@@ -243,11 +241,11 @@ h3 {
         .hands3 {
           height: 30vh;
           width: 50vw;
-          background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.137), rgba(29, 26, 29, 0)), url(https://images.unsplash.com/photo-1552693673-1bf958298935?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDN8fHxlbnwwfHx8&auto=format&fit=crop&w=800&q=60);
+          background-image: url(../img/microneedling2.jpg);
           background-size: cover;
           background-position: top;
           margin-top: -40%;
-          margin-left: 40%;
+          margin-left: 38%;
           
           
         
@@ -318,7 +316,7 @@ h3 {
             background-repeat: no-repeat;
           }
           #trys {
-            background-image: url('../img/langai.jpg');
+            background-image: url('../img/shadowhand.jpg');
        
             background-position: center center;
             background-size: cover;
@@ -405,6 +403,20 @@ h3 {
             
             
           }
+
+              
+        .hands {
+          height: 60vh;
+          
+          background-image: url(https://images.unsplash.com/photo-1581182815808-b6eb627a8798?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw0NjE2NDY0fHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+          background-size: cover;
+          background-position: top;
+          position: relative;
+         
+          
+        
+          
+        }
         
           }
           @media (min-width: 768px) {
@@ -435,7 +447,7 @@ h3 {
                 background-repeat: no-repeat;
               }
               #trys {
-                background-image: url('../img/langai.jpg');
+                background-image: url('../img/shadowhand.jpg');
                 
                 background-position: center center;
                 background-size: cover;
@@ -566,7 +578,7 @@ h3 {
                 background-repeat: no-repeat;
               }
               #trys {
-                background-image: url('../img/langai.jpg');
+                background-image: url('../img/shadowhand.jpg');
                 
                 background-position: center center;
                 background-size: cover;
@@ -699,7 +711,7 @@ h3 {
                           background-repeat: no-repeat;
                         }
                         #trys {
-                          background-image: url('../img/langai.jpg');
+                          
                           background-attachment: fixed;
                           background-position: center center;
                           background-size: cover;
