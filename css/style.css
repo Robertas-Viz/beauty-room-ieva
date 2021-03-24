@@ -221,7 +221,7 @@ h3 {
         
         .hands {
           height: 60vh;
-          background-image: url(https://images.unsplash.com/photo-1581182815808-b6eb627a8798?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw0NjE2NDY0fHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+          background-image: url(https://images.unsplash.com/photo-1605555579795-81a19ff0ad50?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDR8fGZyZWNrbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
           background-size: cover;
           background-position: top;
           position: relative;
@@ -293,10 +293,12 @@ h3 {
         @media only screen and (max-width: 576px) {
           
           #page-header {
-            background-repeat: no-repeat;
-              background-position: center center;
-              background-size: cover;
-            }
+            min-height: 500px;
+            background-image: url(https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjh8MzExMTg2MHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+            background-position: center;
+           
+            background-size: cover;
+            color: rgb(255, 255, 255); }
           #vienas {
             background-image: url('../img/sitassitas.JPG');
            
@@ -408,7 +410,7 @@ h3 {
         .hands {
           height: 60vh;
           
-          background-image: url(https://images.unsplash.com/photo-1581182815808-b6eb627a8798?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw0NjE2NDY0fHxlbnwwfHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+          background-image: url(https://images.unsplash.com/photo-1605555579795-81a19ff0ad50?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDR8fGZyZWNrbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
           background-size: cover;
           background-position: top;
           position: relative;
@@ -687,7 +689,7 @@ h3 {
                         
                         #page-header {
                           min-height: 500px;
-                          background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MXx8Ymx1ZXByaW50cyUyMGNvbnN0cnVjdGlvbnxlbnwwfHwwfA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+                          background-image: linear-gradient(to right bottom, rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjh8MzExMTg2MHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
                           background-position: center;
                           background-attachment: fixed;
                           background-size: cover;
