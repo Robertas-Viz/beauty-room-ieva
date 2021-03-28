@@ -82,7 +82,7 @@ img {
   }
   .hands {
     height: 40vh;
-    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.164), rgba(29, 26, 29, 0.548)), url(../img/beautybr001.jpg);
+    background-image: linear-gradient(to left bottom, rgba(14, 11, 11, 0.164), rgba(29, 26, 29, 0.548)), url(https://image.freepik.com/free-photo/needle-mesotherapy-beauty-clinic-cosmetics-injected-woman-s-face_46370-516.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -92,7 +92,7 @@ img {
   }
   .hands2 {
     height: 40vh;
-    background-image:url(../img/fibo.jpg);
+    background-image:url(https://image.freepik.com/free-photo/needle-mesotherapy-beauty-clinic-cosmetics-injected-woman-s-face_46370-516.jpg);
     background-size: cover;
     background-position: top;
     position: relative;
@@ -136,8 +136,7 @@ body {
   overflow-x: hidden;
   box-sizing: border-box;
 
- 
- background-color: #000000;
+  background-image: linear-gradient(to right top, #bdc3c7,#2c3e50);
 
  }
 
@@ -230,7 +229,7 @@ h3 {
         .hands2 {
           height: 60vh;
           width: 80vw;
-          background-image: url(../img/fibo.jpg);
+          background-image: url(https://image.freepik.com/free-photo/charming-mixed-race-girl-looking-gently-tenderly-like-mirror_295783-938.jpg);
           background-size: cover;
           background-position: top;
           position: relative;
@@ -290,11 +289,15 @@ h3 {
     }
 
 
+
+
+
+
         @media only screen and (max-width: 576px) {
           
           #page-header {
             min-height: 500px;
-            background-image: url(https://images.unsplash.com/photo-1489424731084-a5d8b219a5bb?ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mjh8MzExMTg2MHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+            background-image: url(https://image.freepik.com/free-photo/young-woman-receiving-laser-treatment-cosmetology-clinic_130111-1925.jpg);
             background-position: center;
            
             background-size: cover;
@@ -408,9 +411,9 @@ h3 {
 
               
         .hands {
-          height: 60vh;
-          
-          background-image: url(https://images.unsplash.com/photo-1605555579795-81a19ff0ad50?ixid=MXwxMjA3fDB8MHxzZWFyY2h8NDR8fGZyZWNrbGV8ZW58MHx8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=60);
+          height: 40vh;
+          width: 90vw;
+          background-image: url(https://image.freepik.com/free-photo/needle-mesotherapy-beauty-clinic-cosmetics-injected-woman-s-face_46370-516.jpg);
           background-size: cover;
           background-position: top;
           position: relative;
@@ -1380,7 +1383,7 @@ h3 {
     text-decoration: none;
     text-transform: uppercase;
     padding: 1.4rem;
-    color: #4786dd;
+    color: #8b9c63;
     font-size: 2.4rem; }
   
   /*toggler button*/
@@ -1396,7 +1399,7 @@ h3 {
     display: block;
     width: 30px;
     height: 5px;
-    background-color: #318500;
+    background-color: #75836d;
     margin-bottom: 0.4rem;
     /*from hamburger to cross*/
     transition: 0.4s; }
